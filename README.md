@@ -4,23 +4,6 @@ A classic **Pac-Man** clone built in Java using **Swing** for graphics and input
 
 ---
 
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Controls](#controls)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Known Issues](#known-issues)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
-
----
-
 ## 🧠 Introduction
 
 This project is a simple recreation of the **Pac-Man** arcade game implemented entirely in Java. It uses `javax.swing` for rendering and event handling. The game logic includes:
