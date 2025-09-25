@@ -104,5 +104,5 @@ To adjust game difficulty or speed, modify these constants in the source code.
 
 ---
 
-## 📁 Project Structure
+
 
